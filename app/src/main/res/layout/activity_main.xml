@@ -18,7 +18,7 @@
         android:textSize="30dp"
         android:textAppearance="@color/black"
         android:textAlignment="center"
-        android:textColor="@color/design_default_color_on_primary"
+        android:textColor="@color/black"
         />
 
 
